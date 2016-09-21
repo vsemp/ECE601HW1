@@ -1,1 +1,1 @@
-![Alt text](/blob/master/Trello.png?raw=true "My Trello screenshot")
+![ScreenShot](https://raw.github.com/vsemp/ECE601HW1/blob/master/Trello.png)
