@@ -1,1 +1,1 @@
-![ScreenShot](https://raw.github.com/vsemp/ECE601HW1/blob/master/Trello.png)
+![ScreenShot](https://raw.githubusercontent.com/vsemp/ECE601HW1/master/Trello.png)
