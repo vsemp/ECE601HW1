@@ -1,1 +1,1 @@
-![ScreenShot](https://raw.githubusercontent.com/vsemp/ECE601HW1/master/Trello.png)
+![ScreenShot](https://raw.githubusercontent.com/vsemp/ECE601HW1/master/Trello.png "My Trello screenshot")
